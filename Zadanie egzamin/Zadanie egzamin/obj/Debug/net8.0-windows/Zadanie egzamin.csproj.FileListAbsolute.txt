@@ -1,0 +1,20 @@
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\bin\Debug\net8.0-windows\Zadanie egzamin.exe
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\bin\Debug\net8.0-windows\Zadanie egzamin.deps.json
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\bin\Debug\net8.0-windows\Zadanie egzamin.runtimeconfig.json
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\bin\Debug\net8.0-windows\Zadanie egzamin.dll
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\bin\Debug\net8.0-windows\Zadanie egzamin.pdb
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\App.g.cs
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\Zadanie egzamin_MarkupCompile.cache
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\Zadanie egzamin_MarkupCompile.lref
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\MainWindow.baml
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\Zadanie egzamin.g.resources
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\Zadanie egzamin.GeneratedMSBuildEditorConfig.editorconfig
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\Zadanie egzamin.AssemblyInfoInputs.cache
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\Zadanie egzamin.AssemblyInfo.cs
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\Zadanie egzamin.csproj.CoreCompileInputs.cache
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\Zadanie egzamin.dll
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\refint\Zadanie egzamin.dll
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\Zadanie egzamin.pdb
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\Zadanie egzamin.genruntimeconfig.cache
+H:\Jakub Wojtowicz\Zadanie egzamin\Zadanie egzamin\obj\Debug\net8.0-windows\ref\Zadanie egzamin.dll
